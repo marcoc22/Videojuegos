@@ -12,7 +12,7 @@
     <sprite>sprites\spr_hueso</sprite>
     <sprite>sprites\spr_chocolate</sprite>
     <sprite>sprites\sprite10</sprite>
-    <sprite>sprites\spr_perro</sprite>
+    <sprite>sprites\spri_perro</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_escenario</background>
