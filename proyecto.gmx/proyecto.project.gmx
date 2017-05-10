@@ -31,6 +31,7 @@
     <object>objects\obj_hueso</object>
     <object>objects\obj_chocolate</object>
     <object>objects\obj_spawner</object>
+    <object>objects\obj_countdown</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_escenario</room>
