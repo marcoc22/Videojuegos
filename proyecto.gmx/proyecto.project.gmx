@@ -9,6 +9,7 @@
     <sound>sound\sound_fondo</sound>
     <sound>sound\win</sound>
     <sound>sound\gameOver</sound>
+    <sound>sound\sound_outsideroom</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\pressStart</sprite>
