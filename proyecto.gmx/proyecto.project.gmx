@@ -20,6 +20,8 @@
     <sprite>sprites\spr_chocolate</sprite>
     <sprite>sprites\sprite10</sprite>
     <sprite>sprites\spri_perro</sprite>
+    <sprite>sprites\spr_perro_derecha</sprite>
+    <sprite>sprites\spr_perro_izq</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_escenario</background>
